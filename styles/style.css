@@ -164,6 +164,12 @@ fieldset {
   gap: 5px;
 }
 
+.search-form__fieldset {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
 .search-form__fieldset-title {
   font-family: inherit;
   font-weight: 400;
